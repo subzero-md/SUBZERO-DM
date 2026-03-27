@@ -1,15 +1,3 @@
-
-SUBZERO-DM
-Repository navigation
-Code
-Issues
-1
- (1)
-Actions
-SUBZERO-MD-DEPLOY
-SUBZERO-MD-DEPLOY #1
-Workflow file for this run
-.github/workflows/ma.yml at 24c9743
 name: SUBZERO-MD-DEPLOY
 on:
   workflow_dispatch:
